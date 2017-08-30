@@ -1,3 +1,5 @@
+# Coinbase Java Library to performan bitcoin transaction through Coinbase API on Java programs
+
 # coinbase-java
 
 An easy way to buy, sell, send, and accept [bitcoin](http://en.wikipedia.org/wiki/Bitcoin) through the [Coinbase API](https://coinbase.com/docs/api/overview).
